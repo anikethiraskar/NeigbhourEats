@@ -1,4 +1,4 @@
-# Zosh Food
+# NeigbhourEats Food
 
 1. **User:**
     - ID (Auto-generated)
